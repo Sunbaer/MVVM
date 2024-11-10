@@ -1,0 +1,109 @@
+﻿<UserControl x:Class="RoundBasedGameMVVM.Views.BattleUiView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RoundBasedGameMVVM.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+       
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        
+        <!--First Row-->
+        <Grid Grid.Row="0">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <!--LifeBar playable chrakter-->
+        <Grid Grid.Column="0"  HorizontalAlignment="Center" VerticalAlignment="Center">
+                <StackPanel>
+                    <TextBlock  FontWeight="Bold" Foreground="#de951f" Text="{Binding Path=Player.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <WrapPanel>
+                        <TextBlock FontWeight="Bold" Foreground="Red" Margin="0,0,5,0" >Hp</TextBlock>
+                        <TextBlock FontWeight="Bold" Foreground="Red" Margin="0,0,10,0"  Text="{Binding Path=Player.HealthPoints, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock FontWeight="Bold"  Foreground="Gray" Margin="0,0,5,0" >Armor</TextBlock>
+                        <TextBlock FontWeight="Bold"  Foreground="Gray" Margin="0,0,10,0" Text="{Binding Path=Player.Armor, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock FontWeight="Bold"  Foreground="#86ad4c" Margin="0,0,5,0" >ATK</TextBlock>
+                        <TextBlock FontWeight="Bold"  Margin="0,0,10,0" Foreground="#86ad4c" Text="{Binding Path=Player.AttackDamage, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                        
+                    </WrapPanel>
+                    
+                </StackPanel>
+               
+            </Grid>
+        <!--Global stats-->
+        <Grid Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <StackPanel>
+                    <WrapPanel>
+                        <TextBlock FontWeight="Bold" Foreground="MediumPurple" Text="{Binding Path= Rounds.ExternRound}"></TextBlock>
+                        <TextBlock  FontWeight="Bold" Foreground="MediumPurple" Text="/50 Rounds"/>
+                    </WrapPanel>
+                    <WrapPanel>
+                        <TextBlock  FontWeight="Bold" Foreground="MediumPurple" Text="{Binding Path= Rounds.BattleRound}"></TextBlock>
+                        <TextBlock  FontWeight="Bold" Foreground="MediumPurple" Text=" Round/s"/>
+                    </WrapPanel>
+                   
+                </StackPanel>
+               
+            </Grid>
+
+        <!--LifeBar enemy-->
+            <Grid  Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <StackPanel>
+                    <TextBlock  FontWeight="Bold" Foreground="#de951f" Text="{Binding Path=Enemy.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <WrapPanel>
+                        <TextBlock FontWeight="Bold" Foreground="Red" Margin="0,0,5,0" >Hp</TextBlock>
+                        <TextBlock FontWeight="Bold" Foreground="Red" Margin="0,0,10,0"  Text="{Binding Path=Enemy.HealthPoints, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock FontWeight="Bold"  Foreground="Gray" Margin="0,0,5,0" >Armor</TextBlock>
+                        <TextBlock FontWeight="Bold"  Foreground="Gray" Margin="0,0,10,0" Text="{Binding Path=Enemy.Armor, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock FontWeight="Bold"  Foreground="#86ad4c" Margin="0,0,5,0" >ATK</TextBlock>
+                        <TextBlock FontWeight="Bold"  Margin="0,0,10,0" Foreground="#86ad4c" Text="{Binding Path=Enemy.AttackDamage, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+                    </WrapPanel>
+                </StackPanel>
+            </Grid>
+        </Grid>
+       
+        <!--$$$$$$$$$$$$$$$$$$$$$$$$$-->
+
+        <!--Second Row-->
+        <Grid Grid.Row="1">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Images/FightBackground.png" />
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <!--Image of the playable character-->
+        <Grid  Grid.Row="1" Grid.Column="0">
+            <Image Source="{Binding Path=Player.ImageSource}">
+                  
+            </Image>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <TextBlock>Stats</TextBlock>
+        </Grid>
+
+
+        <!--Image of the Enemy-->
+        <Grid Grid.Row="1" Grid.Column="2">
+                <Image Source="{Binding Path=Enemy.ImageSource}" RenderTransformOrigin="0.5,0.5">
+                    <Image.RenderTransform>
+                        <ScaleTransform ScaleX="-1"/>
+                    </Image.RenderTransform>
+                </Image>
+            </Grid>
+        </Grid>
+       
+
+    </Grid>
+</UserControl>

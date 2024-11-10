@@ -1,0 +1,20 @@
+﻿RoundBasedGameMVVM
+
+
+winexe
+C#
+.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\
+RoundBasedGameMVVM
+none
+false
+DEBUG;TRACE
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\App.xaml
+13-1648163466
+
+391349934951
+18859465147
+MainWindow.xaml;Styles\Button.xaml;Styles\Headers.xaml;Views\BattleUiView.xaml;Views\BattleView.xaml;Views\CharacterSelectionView.xaml;Views\GameOverView.xaml;Views\GameStartView.xaml;Views\LevelUpView.xaml;Views\LoadingScreenView.xaml;Views\SaveStatesView.xaml;Views\SpellQuoteView.xaml;Views\SpellView.xaml;
+
+False
+

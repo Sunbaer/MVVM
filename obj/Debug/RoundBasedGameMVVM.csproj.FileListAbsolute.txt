@@ -1,0 +1,79 @@
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\App.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM_MarkupCompile.cache
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM_MarkupCompile.lref
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\bin\Debug\RoundBasedGameMVVM.exe.config
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\bin\Debug\RoundBasedGameMVVM.exe
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\bin\Debug\RoundBasedGameMVVM.pdb
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\MainWindow.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.g.resources
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.Properties.Resources.resources
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.csproj.CopyComplete
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.exe
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.pdb
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SpellView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SpellView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SpellQuoteView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SpellQuoteView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\BattleView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\BattleView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\GameStartView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\GameStartView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\BattleUiView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\BattleUiView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\LoadingScreenView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\LoadingScreenView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\GameOverView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\GameOverView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\LevelUpView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\LevelUpView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\CharacterSelectionView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\CharacterSelectionView.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Styles\Button.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\App.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Styles\Headers.baml
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SaveStatesView.g.cs
+C:\Users\marti\Desktop\Schule\6AAIFT\Pos\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SaveStatesView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\bin\Debug\RoundBasedGameMVVM.exe.config
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\bin\Debug\RoundBasedGameMVVM.exe
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\bin\Debug\RoundBasedGameMVVM.pdb
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.csproj.AssemblyReference.cache
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Styles\Button.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Styles\Headers.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\MainWindow.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\BattleUiView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\BattleView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\CharacterSelectionView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\GameOverView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\GameStartView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\LevelUpView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\LoadingScreenView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SaveStatesView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SpellQuoteView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SpellView.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\App.g.cs
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM_MarkupCompile.cache
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM_MarkupCompile.lref
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\App.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\MainWindow.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\BattleUiView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\BattleView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\CharacterSelectionView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\GameOverView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\GameStartView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\LevelUpView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\LoadingScreenView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SaveStatesView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SpellQuoteView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\Views\SpellView.baml
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.g.resources
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.Properties.Resources.resources
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.csproj.GenerateResource.cache
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.csproj.CoreCompileInputs.cache
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBas.425EA612.Up2Date
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.exe
+D:\MVVM Program\RoundBasedGameMVVM\RoundBasedGameMVVM\RoundBasedGameMVVM\obj\Debug\RoundBasedGameMVVM.pdb
